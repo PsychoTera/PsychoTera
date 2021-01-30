@@ -5,8 +5,6 @@
 
 ### 🌱 Estoy leyendo y viendo videos acerca de **SASS, SCSS, C, C#**
 
-### 👨‍💻 Portafolio (En construccion) [Portafolio](https://portfolio.federickabstrct.repl.co)
-
 ### 📝 Suelo escribir o aveces documentar reseñas de anime en [Youtube](https://www.youtube.com/channel/UCrpfWg09yAbEYH145RfT_4Q)
 
 ### 💬 Preguntame Libremente acerca de **Frameworks en python, acerca de backend online usado en webs**
