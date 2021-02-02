@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy PsychoTera</h1>
 <h3 align="center">FrontEnd / BackEnd Developer</h3>
 
-<a href="https://www.youtube.com/c/federick abstrct" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="federick abstrct" height="30" width="40" /></a>
+<a href="hthttps://www.youtube.com/channel/UCrpfWg09yAbEYH145RfT_4Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="federick abstrct" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/FwGcmanp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/FwGcmanp" height="30" width="40" /></a>
 
 - 🌱 Estoy leyendo y viendo videos acerca de **SASS, SCSS, C, C#**
